@@ -5,3 +5,4 @@ learn how to consume an API.JavaScript Vanilla.
 *	a search form we use to ask GitHub data about a specific user
 *enter a specific GitHub username,hit enter and  ask GitHub API information about this user
 *show the user information 
+This is a project made when following https://thejsbootcamp.com/
